@@ -2,7 +2,7 @@
 
 ---
 
-#### 👋 Hi, I’m Mrunali Suryawanshi (@SMrunali). I have completed a PG Diploma in Data Science and Analytics.
+#### 👋 Hi, I’m Mrunali Suryawanshi. I have completed a PG Diploma in Data Science and Analytics.
 
 #### Aspiring Data Analyst, I specialize in using Power Bi, SQL, Python to drive data insights and support business objectives. With expertise in data analytics, visualization and dashboarding, I implement solutions that streamline operations and enhance decision-making.
 ---
@@ -23,9 +23,20 @@
 ➡️Reporting and Analytics
 ➡️Dashboarding
 
-💞️ Looking to collaborate on: Data Science & Analysis projects
+---
 
-📫 How to reach me: suryawanshimrunali4344@gmail.com
+- 📂 You can check out some of my work and projects on my GitHub profile.
+
+
+- 🌐 Looking to collaborate on: Data Science & Analysis projects
+
+---
+
+📫 How to reach me: 
+
+- 📧 Feel free to reach out to me via email : suryawanshimrunali4344@gmail.com
+
+- 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/mrunali-suryawanshi-ab8901245).
 
 
 
