@@ -39,7 +39,7 @@
 - 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/mrunali-suryawanshi-ab8901245).
 
 
-
+Thanks for stopping by my GitHub profile!
 
 <!---
 SMrunali/SMrunali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
