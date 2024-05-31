@@ -23,7 +23,7 @@
 ➡️Reporting and Analytics
 ➡️Dashboarding
 
-💞️ Looking to collaborate on: Data Science projects
+💞️ Looking to collaborate on: Data Science & Analysis projects
 
 📫 How to reach me: suryawanshimrunali4344@gmail.com
 
